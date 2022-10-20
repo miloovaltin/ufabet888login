@@ -1,16 +1,16 @@
 {
-"name": "ufabet888login",
-"theme": "ufabet888 login",
-"version": "6.10.8",
-"description": "ufabet888 login สมัครสมาชิกเว็บไซต์คาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ รับเงินเครดิตฟรี",
-"keywords": [
-"ufabet888 login",
-"ufabet888 login เครดิตฟรี",
-"ufabet888 login ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/ufabet888login",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "ufabet888login",
+  "theme": "ufabet888 login",
+  "version": "6.11.0",
+  "description": "ufabet888 login สมัครสมาชิกเว็บไซต์คาสิโนเว็บตรง ไม่ผ่านเอเย่นต์ รับเงินเครดิตฟรี",
+  "keywords": [
+    "ufabet888 login",
+    "ufabet888 login เครดิตฟรี",
+    "ufabet888 login ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/ufabet888login",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
